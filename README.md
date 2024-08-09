@@ -12,6 +12,7 @@ An editor plugin to create and manipulate bezier cubic curves in Godot.
 
 ## API Reference
 |Variable             |Type                   |Description                                                                    |
+|:---                 |:--------              |:-------                                                                       |
 |`points`             |`PackedVector2Array`   |Points that form the curve (curve points + control points)                     |
 |`flip_h`             |`bool`                 |When set to true, points will be flipped horizontally                          |
 |`flip_v`             |`bool`                 |When set to true, points will be flipped horizontally                          |
