@@ -1,8 +1,8 @@
 
-# Godot Bezier Plugin
+# Godot 4 Bezier Plugin
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-An editor plugin to create and manipulate bezier cubic curves in Godot.
+An editor plugin to create and manipulate bezier cubic curves in Godot. Tested in vcersion `v4.2.2.stable.mono.official`.
 
 ![](img/bezier.gif)
 
