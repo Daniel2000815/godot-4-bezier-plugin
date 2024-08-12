@@ -100,3 +100,6 @@ private void ShootTNT(){
   path.Call("move_node_along_path", p, 1.0, Callable.From(stop_rotating));
 }
 ```
+
+## References
+- [Sebastian Lague](https://github.com/SebLague/Curve-Editor/tree/master)
